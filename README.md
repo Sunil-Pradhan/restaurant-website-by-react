@@ -1,8 +1,42 @@
-# React + Vite
+# **Restaurant Website by React**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## General info
 
-Currently, two official plugins are available:
+This is a restaurant website built with React. It has four menus such as home, menu, about and contact which is possible to jump from one page to other. The landing page has a bigger background image and heading with order now button. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The menu tab contains some sample menus in card view. About and contact pages has some sample text. 
+
+#### [Live Site](https://restaurant-website-by-react.netlify.app/)
+
+## Screenshot of the App
+
+![Restaurant Website by React](https://i.ibb.co/LZ8S68R/react-3.jpg)
+
+## Technologies Used
+
+- React
+- Material UI 
+- React Router
+- Vite
+
+## Concept Demonstration
+
+- React Functional Components
+- Handling Props
+- useState Hook
+- Material UI
+- React Router
+
+## Folder Structure
+
+![Restaurant Website by React - Folder Structure](https://i.ibb.co/4Yz1XnJ/react-4.jpg)
+
+## npm Packages
+
+```
+npm create vite@latest
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-materials
+npm i react-router-dom
+```
+
